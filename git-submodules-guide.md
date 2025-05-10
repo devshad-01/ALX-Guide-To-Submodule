@@ -1,4 +1,4 @@
-# Git Submodules Guide for ALX Airbnb Clone (For Fellow Learners)
+# Git Submodules Guide for ALX Airbnb Clone 
 
 ## Problem
 You have multiple ALX-mandated repos (e.g., `alx-airbnb-database`, `alx-airbnb-docs`) but want to organize them under **one main repo** (`airbnb-clone-project`) without breaking the ALX checker.
